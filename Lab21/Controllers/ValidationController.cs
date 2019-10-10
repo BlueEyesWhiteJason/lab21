@@ -10,12 +10,8 @@ namespace Lab21.Controllers
 {
     public class ValidationController : Controller
     {
-        //public bool IsValid()
-        //{
-        //    try
-        //    {
+       
 
-        //    }
-        //}
+
     }
 }
